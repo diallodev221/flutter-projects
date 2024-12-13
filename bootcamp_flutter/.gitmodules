@@ -1,0 +1,3 @@
+[submodule "flutter-projects"]
+	path = flutter-projects
+	url = git@github.com:diallodev221/flutter-projects.git
